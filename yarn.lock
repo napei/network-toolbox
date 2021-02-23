@@ -5624,9 +5624,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-jsdoc@npm:31.6.1":
-  version: 31.6.1
-  resolution: "eslint-plugin-jsdoc@npm:31.6.1"
+"eslint-plugin-jsdoc@npm:32.2.0":
+  version: 32.2.0
+  resolution: "eslint-plugin-jsdoc@npm:32.2.0"
   dependencies:
     comment-parser: 1.1.2
     debug: ^4.3.1
@@ -5637,7 +5637,7 @@ __metadata:
     spdx-expression-parse: ^3.0.1
   peerDependencies:
     eslint: ^6.0.0 || ^7.0.0
-  checksum: d4b99bd08e3dc760ea8595fb3a6339f0e9133a300f159c75fb631c45ac0702729c10bfd1f6156608175881ed5afed297c11a71c2ea8eddac3e4d023ca4f1ba3d
+  checksum: 7c1fa1b6c0f8dc17aa4b886bb26f0024d9b006fcf108b068429813258e3924cf1905a5f21d24775c3580226781ee4b3a79892d7181fc71b8b971a0eac97304e4
   languageName: node
   linkType: hard
 
@@ -13118,7 +13118,7 @@ typescript@4.1.5:
     date-fns: 2.17.0
     eslint: 7.20.0
     eslint-plugin-import: 2.22.1
-    eslint-plugin-jsdoc: 31.6.1
+    eslint-plugin-jsdoc: 32.2.0
     eslint-plugin-prefer-arrow: 1.2.3
     husky: 5.0.9
     lint-staged: 10.5.4
