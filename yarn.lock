@@ -2245,10 +2245,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:14.14.27":
+"@types/node@npm:*":
   version: 14.14.27
   resolution: "@types/node@npm:14.14.27"
   checksum: efc78cf6e698e09925a2542bbea932dfe092408f4ce39b8f260b71df502221d76c925fd3227bc1f7427edd9cfb6f8c81c68a56b9ab690f08425e7e6e177e61e0
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:14.14.34":
+  version: 14.14.34
+  resolution: "@types/node@npm:14.14.34"
+  checksum: 74db0d80ad997c3ca2597abe1c63c85e87c32e06b4e8c8392a24a11ad00a4567b293a72bbdf49ace201150b420a943609181771cab034cef10fe65272d452718
   languageName: node
   linkType: hard
 
@@ -13108,7 +13115,7 @@ typescript@4.1.5:
     "@swimlane/ngx-charts": 17.0.0
     "@types/jsbn": 1.2.29
     "@types/lodash-es": 4.17.4
-    "@types/node": 14.14.27
+    "@types/node": 14.14.34
     "@types/prettier": 2.2.0
     "@typescript-eslint/eslint-plugin": 4.15.0
     "@typescript-eslint/parser": 4.15.0
