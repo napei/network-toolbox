@@ -36,7 +36,7 @@
     "@fortawesome/free-regular-svg-icons": "5.15.2",
     "@fortawesome/free-solid-svg-icons": "5.15.2",
     "@ng-bootstrap/ng-bootstrap": "9.0.2",
-    "@ngneat/hot-toast": "1.0.8",
+    "@ngneat/hot-toast": "2.0.0",
     "@ngneat/overview": "1.0.0",
     "@ngneat/reactive-forms": "1.7.0",
     "@ngx-pwa/local-storage": "11.1.0",
